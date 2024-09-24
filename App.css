@@ -1,0 +1,11 @@
+.luz {
+  box-shadow: 0 0 15px rgb(255, 255, 255); 
+  transform: scale(1.1); 
+  transition: all 0.2s ease -in -out;
+}
+.fondo {
+  height: 400px; /* Ajusta la altura como desees */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
